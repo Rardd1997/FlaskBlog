@@ -1,0 +1,8 @@
+venv/*
+*.env
+*.pyc
+logging
+app.db
+readme.txt
+logs/*
+migrations/*
